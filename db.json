@@ -1,5 +1,5 @@
 {
-"name"     : "vivek","test","vivekkk",
+"name"     : [vivek,test,vivekkk],
 "email"    : ["vivekdoshi@aol.com"],
 "time"     : ["Asia/Calcutta"] ,
 "category" : ["test"],
